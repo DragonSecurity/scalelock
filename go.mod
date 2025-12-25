@@ -1,11 +1,11 @@
 module github.com/dragonsecurity/scalelock
 
-go 1.25.4
+go 1.25.5
 
 require (
 	github.com/ThreeDotsLabs/watermill v1.5.1
 	github.com/alexedwards/argon2id v1.0.0
-	github.com/go-playground/validator/v10 v10.30.0
+	github.com/go-playground/validator/v10 v10.30.1
 	github.com/google/uuid v1.6.0
 	golang.org/x/oauth2 v0.34.0
 	gorm.io/driver/mysql v1.6.0
